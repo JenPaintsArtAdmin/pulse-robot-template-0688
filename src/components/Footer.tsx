@@ -6,7 +6,7 @@ const Footer = () => {
         <p className="text-center text-gray-600 text-sm">
           Designed by{" "}
           <a href="https://genpaints.art" target="_blank" rel="noopener noreferrer" className="text-pulse-500 hover:underline">
-            genpaints.art
+            JenPaints
           </a>
         </p>
       </div>
